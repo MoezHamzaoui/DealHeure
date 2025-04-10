@@ -1,7 +1,6 @@
 package com.dh.model;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class RebuildMessage {
     public static String rebuildMessage(List<String> parts){
